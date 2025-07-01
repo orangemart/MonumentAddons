@@ -1,0 +1,75 @@
+{
+  "Name": "antiautoclicker",
+  "Author": "ORANGEMART",
+  "SchemaVersion": 2.0,
+  "MonumentData": {
+    "bandit_town": {
+      "Entities": [
+        {
+          "Id": "cfe273fd-ae55-42bd-ae20-74942151f32c",
+          "PrefabName": "assets/prefabs/deployable/hazmatplushy/hazmatplushy_deployed.prefab",
+          "Position": {
+            "x": 10.21099,
+            "y": 4.406363,
+            "z": -1.75843012
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 249.2941,
+            "z": 0.0
+          }
+        },
+        {
+          "Id": "a2f49df0-d4a2-4bd3-8e38-354c6ade7810",
+          "PrefabName": "assets/prefabs/deployable/hazmatplushy/hazmatplushy_deployed.prefab",
+          "Position": {
+            "x": 27.0629921,
+            "y": 2.28583,
+            "z": 44.585247
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 328.1341,
+            "z": 0.0
+          }
+        }
+      ]
+    },
+    "fishing_village_b": {
+      "Entities": [
+        {
+          "Id": "2aa0ce62-9a42-48ab-9e30-96c681541621",
+          "PrefabName": "assets/prefabs/deployable/hazmatplushy/hazmatplushy_deployed.prefab",
+          "Position": {
+            "x": -10.335371,
+            "y": 4.150763,
+            "z": 22.5953026
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 284.931854,
+            "z": 0.0
+          }
+        }
+      ]
+    },
+    "fishing_village_a": {
+      "Entities": [
+        {
+          "Id": "fd037f2a-0cd4-4003-a90b-0dbf2fb41e2e",
+          "PrefabName": "assets/prefabs/deployable/hazmatplushy/hazmatplushy_deployed.prefab",
+          "Position": {
+            "x": -3.27124023,
+            "y": 4.13932228,
+            "z": 4.26959229
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 177.210022,
+            "z": 0.0
+          }
+        }
+      ]
+    }
+  }
+}
