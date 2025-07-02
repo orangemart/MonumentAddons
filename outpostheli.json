@@ -1,0 +1,72 @@
+{
+  "Name": "outpostheli",
+  "Author": "ORANGEMART",
+  "SchemaVersion": 2.0,
+  "MonumentData": {
+    "compound": {
+      "Entities": [
+        {
+          "Id": "c1a099d5-b78b-4681-8d47-2828561fd71b",
+          "PrefabName": "assets/prefabs/misc/xmas/neon_sign/sign.neon.125x215.prefab",
+          "Position": {
+            "x": 43.58976,
+            "y": 1.62151718,
+            "z": 40.27816
+          },
+          "RotationAngles": {
+            "x": 0.009264117,
+            "y": 0.42016232,
+            "z": 0.233220473
+          },
+          "SignArtistImages": [
+            {
+              "Url": "https://i.postimg.cc/ZndbcMzM/Airwolf_(1).png"
+            }
+          ]
+        },
+        {
+          "Id": "36547f92-c033-49f3-a455-36397284061b",
+          "PrefabName": "assets/prefabs/npc/bandit/shopkeepers/bandit_conversationalist.prefab",
+          "Position": {
+            "x": 45.82829,
+            "y": 0.188335419,
+            "z": 47.5088
+          },
+          "RotationAngles": {
+            "x": 0.1172107,
+            "y": 35.02672,
+            "z": 3.33506E-09
+          }
+        },
+        {
+          "Id": "34309cdb-942c-4022-8922-9a08ebe978f0",
+          "PrefabName": "assets/prefabs/npc/bandit/airwolfspawner.prefab",
+          "Position": {
+            "x": 51.8762054,
+            "y": 0.153476715,
+            "z": 52.498745
+          },
+          "RotationAngles": {
+            "x": 30.302702,
+            "y": 115.484718,
+            "z": 27.30737
+          }
+        },
+        {
+          "Id": "7ec62a35-8527-461f-9d00-d234cede6fcb",
+          "PrefabName": "assets/prefabs/deployable/playerioents/lights/simplelight.prefab",
+          "Position": {
+            "x": 39.42972,
+            "y": 5.08288956,
+            "z": 47.2781639
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 64.28256,
+            "z": 0.0
+          }
+        }
+      ]
+    }
+  }
+}

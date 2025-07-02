@@ -70,6 +70,24 @@
           }
         }
       ]
+    },
+    "fishing_village_c": {
+      "Entities": [
+        {
+          "Id": "44bf701b-a5da-4cfd-acd5-53ed3629d670",
+          "PrefabName": "assets/prefabs/deployable/hazmatplushy/hazmatplushy_deployed.prefab",
+          "Position": {
+            "x": -8.339077,
+            "y": 4.159322,
+            "z": 8.738942
+          },
+          "RotationAngles": {
+            "x": 0.0,
+            "y": 88.89194,
+            "z": 0.0
+          }
+        }
+      ]
     }
   }
 }
